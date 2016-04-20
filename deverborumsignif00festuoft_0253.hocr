@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumsignif00festuoft_0253.png"; bbox 0 0 2072 3222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 272 185 1196 218">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 272 185 1196 218">
+     <span class='ocr_line' id='line_1_1' title="bbox 272 185 1196 218; baseline 0.008 -7"><span class='ocrx_word' id='word_1_1' title='bbox 272 185 322 212; x_wconf 71' lang='lat'>199</span> <span class='ocrx_word' id='word_1_2' title='bbox 821 189 945 215; x_wconf 59' lang='lat' dir='ltr'>PAULI</span> <span class='ocrx_word' id='word_1_3' title='bbox 968 190 1196 218; x_wconf 74' lang='lat' dir='ltr'>EXCERPTA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 272 1996 1620 2204">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 272 1996 1620 2204">
+     <span class='ocr_line' id='line_1_2' title="bbox 272 1996 1620 2052; baseline 0 -13"><span class='ocrx_word' id='word_1_4' title='bbox 272 1996 442 2039; x_wconf 74' lang='lat' dir='ltr'>Orare</span> <span class='ocrx_word' id='word_1_5' title='bbox 472 1998 642 2052; x_wconf 59' lang='lat' dir='ltr'>anssiqui</span> <span class='ocrx_word' id='word_1_6' title='bbox 677 1997 877 2040; x_wconf 73' lang='lat' dir='ltr'>dixerunt</span> <span class='ocrx_word' id='word_1_7' title='bbox 911 2012 989 2052; x_wconf 78' lang='lat' dir='ltr'>pro</span> <span class='ocrx_word' id='word_1_8' title='bbox 1025 2012 1162 2051; x_wconf 70' lang='lat' dir='ltr'><strong>agere.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1206 1997 1329 2038; x_wconf 65' lang='lat' dir='ltr'>Unde</span> <span class='ocrx_word' id='word_1_10' title='bbox 1364 2000 1404 2038; x_wconf 73' lang='lat' dir='ltr'>et-</span> <span class='ocrx_word' id='word_1_11' title='bbox 1437 2004 1620 2039; x_wconf 59' lang='lat' dir='ltr'>oratores</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 327 2073 1619 2128; baseline -0.002 -14"><span class='ocrx_word' id='word_1_12' title='bbox 327 2087 555 2115; x_wconf 76' lang='lat' dir='ltr'>causarum</span> <span class='ocrx_word' id='word_1_13' title='bbox 589 2076 767 2125; x_wconf 78' lang='lat' dir='ltr'>actores,</span> <span class='ocrx_word' id='word_1_14' title='bbox 802 2078 843 2116; x_wconf 73' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_15' title='bbox 877 2077 1080 2125; x_wconf 73' lang='lat' dir='ltr'>oratores,</span> <span class='ocrx_word' id='word_1_16' title='bbox 1106 2076 1176 2128; x_wconf 85' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_17' title='bbox 1200 2087 1318 2114; x_wconf 77' lang='lat' dir='ltr'>nunc</span> <span class='ocrx_word' id='word_1_18' title='bbox 1340 2073 1480 2126; x_wconf 66' lang='lat' dir='ltr'>legahi,</span> <span class='ocrx_word' id='word_1_19' title='bbox 1506 2073 1619 2126; x_wconf 82' lang='lat' dir='ltr'>quod</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 328 2150 1095 2204; baseline 0.001 -14"><span class='ocrx_word' id='word_1_20' title='bbox 328 2150 571 2204; x_wconf 55' lang='lat' dir='ltr'>reipublicae</span> <span class='ocrx_word' id='word_1_21' title='bbox 597 2151 805 2192; x_wconf 76' lang='lat' dir='ltr'>mandata</span> <span class='ocrx_word' id='word_1_22' title='bbox 826 2154 1095 2204; x_wconf 73' lang='lat' dir='ltr'>peragerent.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1667 180 1690 218">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1667 180 1690 218">
+     <span class='ocr_line' id='line_1_5' title="bbox 1667 180 1690 218; textangle 90"><span class='ocrx_word' id='word_1_23' title='bbox 1667 180 1690 218; x_wconf 57' lang='grc' dir='ltr'>Ν.)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

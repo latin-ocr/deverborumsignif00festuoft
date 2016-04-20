@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumsignif00festuoft_0121.png"; bbox 0 0 2072 3222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 229 173 1704 214">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 229 173 1704 214">
+     <span class='ocr_line' id='line_1_1' title="bbox 229 173 1704 214; baseline 0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 229 184 278 209; x_wconf 70' lang='lat'>132</span> <span class='ocrx_word' id='word_1_2' title='bbox 788 186 912 214; x_wconf 84' lang='lat' dir='ltr'><strong>PAULI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 934 185 1162 214; x_wconf 78' lang='lat' dir='ltr'><strong>EXCERPTA.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1625 173 1704 213; x_wconf 81' lang='lat'>103</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 221 1390 1571 1585">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 221 1390 1571 1585">
+     <span class='ocr_line' id='line_1_2' title="bbox 221 1390 1570 1448; baseline 0 -17"><span class='ocrx_word' id='word_1_5' title='bbox 221 1390 465 1432; x_wconf 70' lang='lat' dir='ltr'>Mantisa</span> <span class='ocrx_word' id='word_1_6' title='bbox 503 1390 847 1432; x_wconf 74' lang='lat' dir='ltr'>addita-mentum</span> <span class='ocrx_word' id='word_1_7' title='bbox 887 1390 1041 1448; x_wconf 76' lang='lat' dir='ltr'>dieitur</span> <span class='ocrx_word' id='word_1_8' title='bbox 1075 1391 1227 1442; x_wconf 74' lang='lat' dir='ltr'>lingua</span> <span class='ocrx_word' id='word_1_9' title='bbox 1270 1391 1421 1438; x_wconf 76' lang='lat' dir='ltr'>Tusca,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1457 1390 1570 1444; x_wconf 82' lang='lat' dir='ltr'>quod</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 279 1467 1571 1521; baseline -0.001 -13"><span class='ocrx_word' id='word_1_11' title='bbox 279 1467 461 1520; x_wconf 79' lang='lat' dir='ltr'>ponderi</span> <span class='ocrx_word' id='word_1_12' title='bbox 484 1467 679 1515; x_wconf 62' lang='lat' dir='ltr'><strong>adicissur,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 715 1467 789 1508; x_wconf 77' lang='lat' dir='ltr'>sed</span> <span class='ocrx_word' id='word_1_14' title='bbox 813 1467 1000 1508; x_wconf 74' lang='lat' dir='ltr'>deterius</span> <span class='ocrx_word' id='word_1_15' title='bbox 1026 1470 1066 1508; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_16' title='bbox 1101 1467 1216 1521; x_wconf 82' lang='lat' dir='ltr'>quod</span> <span class='ocrx_word' id='word_1_17' title='bbox 1247 1467 1337 1509; x_wconf 58' lang='lat' dir='ltr'>sine</span> <span class='ocrx_word' id='word_1_18' title='bbox 1367 1468 1455 1509; x_wconf 88' lang='lat' dir='ltr'>ullo</span> <span class='ocrx_word' id='word_1_19' title='bbox 1491 1482 1571 1508; x_wconf 79' lang='lat' dir='ltr'>usu</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 281 1543 1243 1585; baseline -0.001 -1"><span class='ocrx_word' id='word_1_20' title='bbox 281 1546 356 1585; x_wconf 70' lang='lat' dir='ltr'>est.</span> <span class='ocrx_word' id='word_1_21' title='bbox 376 1544 591 1585; x_wconf 77' lang='lat' dir='ltr'>Lucilius:</span> <span class='ocrx_word' id='word_1_22' title='bbox 634 1544 845 1584; x_wconf 74' lang='lat' dir='ltr'>«Mantisa</span> <span class='ocrx_word' id='word_1_23' title='bbox 868 1543 1051 1585; x_wconf 78' lang='lat' dir='ltr'>obsonia</span> <span class='ocrx_word' id='word_1_24' title='bbox 1074 1545 1243 1585; x_wconf 76' lang='lat' dir='ltr'>vincit.»</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

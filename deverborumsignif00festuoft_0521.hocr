@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumsignif00festuoft_0521.png"; bbox 0 0 2072 3222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 309 159 1781 200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 309 159 1781 200">
+     <span class='ocr_line' id='line_1_1' title="bbox 309 159 1781 200; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 309 165 363 191; x_wconf 81' lang='lat'>337</span> <span class='ocrx_word' id='word_1_2' title='bbox 869 170 988 197; x_wconf 71' lang='lat' dir='ltr'>PAUm</span> <span class='ocrx_word' id='word_1_3' title='bbox 1009 171 1236 198; x_wconf 72' lang='lat' dir='ltr'>EXCERPTA.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1704 159 1781 200; x_wconf 75' lang='lat'>501</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 311 282 1658 554">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 313 282 1658 492">
+     <span class='ocr_line' id='line_1_2' title="bbox 313 282 1658 340; baseline 0.003 -16"><span class='ocrx_word' id='word_1_5' title='bbox 313 282 623 335; x_wconf 79' lang='lat' dir='ltr'>Simpulum</span> <span class='ocrx_word' id='word_1_6' title='bbox 653 296 726 324; x_wconf 81' lang='lat' dir='ltr'>vas</span> <span class='ocrx_word' id='word_1_7' title='bbox 760 284 993 336; x_wconf 78' lang='lat' dir='ltr'>parvulum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1028 298 1116 325; x_wconf 82' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_9' title='bbox 1154 286 1360 327; x_wconf 75' lang='lat' dir='ltr'>dissimile</span> <span class='ocrx_word' id='word_1_10' title='bbox 1383 287 1550 339; x_wconf 70' lang='lat' dir='ltr'><strong>cyatho,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1575 300 1658 340; x_wconf 85' lang='lat' dir='ltr'>quo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 369 358 1657 408; baseline 0.002 -8"><span class='ocrx_word' id='word_1_12' title='bbox 369 362 520 400; x_wconf 81' lang='lat' dir='ltr'><strong>vinum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 539 359 584 400; x_wconf 88' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_14' title='bbox 605 358 821 400; x_wconf 77' lang='lat' dir='ltr'>sacrificiis</span> <span class='ocrx_word' id='word_1_15' title='bbox 839 359 1079 408; x_wconf 72' lang='lat' dir='ltr'>libabatur;</span> <span class='ocrx_word' id='word_1_16' title='bbox 1104 361 1218 403; x_wconf 79' lang='lat' dir='ltr'>unde</span> <span class='ocrx_word' id='word_1_17' title='bbox 1243 365 1284 403; x_wconf 71' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_18' title='bbox 1305 363 1510 404; x_wconf 75' lang='lat' dir='ltr'>mulieres</span> <span class='ocrx_word' id='word_1_19' title='bbox 1528 363 1657 404; x_wconf 74' lang='lat' dir='ltr'>rebus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 370 433 1050 492; baseline 0.004 -16"><span class='ocrx_word' id='word_1_20' title='bbox 370 435 527 476; x_wconf 83' lang='lat' dir='ltr'>divinis</span> <span class='ocrx_word' id='word_1_21' title='bbox 550 434 703 476; x_wconf 73' lang='lat' dir='ltr'>deditae</span> <span class='ocrx_word' id='word_1_22' title='bbox 725 433 1050 492; x_wconf 61' lang='lat' dir='ltr'>simpulatrices.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 311 511 1080 554">
+     <span class='ocr_line' id='line_1_5' title="bbox 311 511 1080 554; baseline 0.001 -1"><span class='ocrx_word' id='word_1_23' title='bbox 311 511 647 553; x_wconf 77' lang='lat' dir='ltr'>Senaculum</span> <span class='ocrx_word' id='word_1_24' title='bbox 669 511 789 552; x_wconf 80' lang='lat' dir='ltr'>loeus</span> <span class='ocrx_word' id='word_1_25' title='bbox 813 515 1080 554; x_wconf 78' lang='lat' dir='ltr'>senatorum.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

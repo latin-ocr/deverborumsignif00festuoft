@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumsignif00festuoft_0325.png"; bbox 0 0 2072 3222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 255 179 1189 212">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 255 179 1189 212">
+     <span class='ocr_line' id='line_1_1' title="bbox 255 179 1189 212; baseline 0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 255 179 310 207; x_wconf 63' lang='lat'><strong>239</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 811 184 937 211; x_wconf 89' lang='lat' dir='ltr'>PAULI</span> <span class='ocrx_word' id='word_1_3' title='bbox 960 184 1189 212; x_wconf 84' lang='lat' dir='ltr'>EXCERPTA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 256 755 1618 884">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 256 755 1618 884">
+     <span class='ocr_line' id='line_1_2' title="bbox 256 755 1618 810; baseline 0 -14"><span class='ocrx_word' id='word_1_4' title='bbox 256 755 479 805; x_wconf 54' lang='lat' dir='ltr'>Porcas„</span> <span class='ocrx_word' id='word_1_5' title='bbox 515 769 625 809; x_wconf 77' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_6' title='bbox 661 755 706 796; x_wconf 89' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 730 756 842 809; x_wconf 77' lang='lat' dir='ltr'>agris</span> <span class='ocrx_word' id='word_1_8' title='bbox 866 755 991 804; x_wconf 76' lang='lat' dir='ltr'><strong>fiunt,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1016 757 1077 798; x_wconf 77' lang='lat' dir='ltr'><strong>ait</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1099 756 1235 797; x_wconf 81' lang='lat' dir='ltr'>Varro</span> <span class='ocrx_word' id='word_1_11' title='bbox 1261 756 1356 806; x_wconf 75' lang='lat' dir='ltr'>diei,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1384 757 1499 810; x_wconf 82' lang='lat' dir='ltr'>quod</span> <span class='ocrx_word' id='word_1_13' title='bbox 1522 770 1618 810; x_wconf 84' lang='lat' dir='ltr'>por-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 316 831 762 884; baseline 0.004 -13"><span class='ocrx_word' id='word_1_14' title='bbox 316 832 458 884; x_wconf 71' lang='lat' dir='ltr'>rigant</span> <span class='ocrx_word' id='word_1_15' title='bbox 479 831 762 873; x_wconf 77' lang='lat' dir='ltr'><strong>frumentum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1536 2909 1601 2941">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1536 2909 1601 2941">
+     <span class='ocr_line' id='line_1_4' title="bbox 1536 2909 1601 2941; baseline -0.031 0"><span class='ocrx_word' id='word_1_16' title='bbox 1536 2911 1565 2941; x_wconf 66' lang='lat'><strong>2(</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1574 2909 1601 2939; x_wconf 56' lang='grc' dir='ltr'>Γ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1659 173 1739 213">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1659 173 1739 213">
+     <span class='ocr_line' id='line_1_5' title="bbox 1659 173 1739 213; baseline 0.025 -2"><span class='ocrx_word' id='word_1_18' title='bbox 1659 173 1739 213; x_wconf 70' lang='grc'><strong>307</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

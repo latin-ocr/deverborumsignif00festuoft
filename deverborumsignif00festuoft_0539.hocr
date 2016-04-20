@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumsignif00festuoft_0539.png"; bbox 0 0 2072 3222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 274 156 1760 197">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 274 156 1760 197">
+     <span class='ocr_line' id='line_1_1' title="bbox 274 156 1760 197; baseline 0.007 -10"><span class='ocrx_word' id='word_1_1' title='bbox 274 156 331 182; x_wconf 65' lang='lat'>3426</span> <span class='ocrx_word' id='word_1_2' title='bbox 839 165 962 192; x_wconf 85' lang='lat' dir='ltr'><strong>PAULI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 985 166 1214 195; x_wconf 76' lang='lat' dir='ltr'><strong>EXCERPTA.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1677 157 1760 197; x_wconf 71' lang='lat'>519</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 261 2579 1615 2773">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 261 2579 1615 2773">
+     <span class='ocr_line' id='line_1_2' title="bbox 261 2579 1614 2640; baseline 0.005 -20"><span class='ocrx_word' id='word_1_5' title='bbox 261 2579 477 2621; x_wconf 77' lang='lat' dir='ltr'>Scholae</span> <span class='ocrx_word' id='word_1_6' title='bbox 531 2580 651 2622; x_wconf 61' lang='lat' dir='ltr'><strong>dietae</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 699 2585 802 2624; x_wconf 74' lang='lat' dir='ltr'><strong>sunt</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 846 2597 894 2623; x_wconf 75' lang='lat' dir='ltr'>ex</span> <span class='ocrx_word' id='word_1_9' title='bbox 938 2584 1101 2633; x_wconf 65' lang='lat' dir='ltr'>Grffeo,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1145 2599 1169 2624; x_wconf 67' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_11' title='bbox 1212 2587 1452 2635; x_wconf 69' lang='lat' dir='ltr'>vacatione,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1499 2587 1614 2640; x_wconf 84' lang='lat' dir='ltr'>quod</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 321 2658 1615 2715; baseline 0.005 -18"><span class='ocrx_word' id='word_1_13' title='bbox 321 2659 472 2698; x_wconf 73' lang='lat' dir='ltr'>ceteris</span> <span class='ocrx_word' id='word_1_14' title='bbox 494 2658 624 2699; x_wconf 76' lang='lat' dir='ltr'>rebus</span> <span class='ocrx_word' id='word_1_15' title='bbox 650 2660 821 2699; x_wconf 78' lang='lat' dir='ltr'>omissis</span> <span class='ocrx_word' id='word_1_16' title='bbox 845 2673 997 2701; x_wconf 74' lang='lat' dir='ltr'>vacare</span> <span class='ocrx_word' id='word_1_17' title='bbox 1032 2660 1282 2702; x_wconf 76' lang='lat' dir='ltr'>liberalibus</span> <span class='ocrx_word' id='word_1_18' title='bbox 1317 2662 1469 2703; x_wconf 76' lang='lat' dir='ltr'>studiis</span> <span class='ocrx_word' id='word_1_19' title='bbox 1491 2665 1615 2715; x_wconf 70' lang='lat' dir='ltr'>pueri</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 320 2732 491 2773; baseline 0.006 -1"><span class='ocrx_word' id='word_1_20' title='bbox 320 2732 491 2773; x_wconf 74' lang='lat' dir='ltr'>debent.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
